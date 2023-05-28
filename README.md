@@ -25,7 +25,20 @@ Característica: Realizar a los diversos metodos de la
     Entonces se obtiene una respuesta exitosa y el Poema se crea correctamente
 
 ```
-
+Ejecucion de Regresion
 ```Bash
-gradle test
+gradle clean test -Dcucumber.filter.tags="@TestsJSONPlaceholder"
 ```
+Test
+```Bash
+gradle clean test -Dcucumber.filter.tags="@Obtencion_de_recursos_literarios"
+```
+Test
+```Bash
+gradle clean test -Dcucumber.filter.tags="@Editar_artículos_literarios"
+```
+Test
+```Bash
+gradle clean test -Dcucumber.filter.tags="@Agregar_artículos_literarios"
+```
+

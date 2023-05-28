@@ -1,6 +1,6 @@
 # language: es
 
-@TestJSONPlaceholder
+@TestsJSONPlaceholder
 Característica: Realizar a los diversos metodos de la
   API JSONPlaceholder
 
