@@ -1,7 +1,8 @@
 # language: es
 
 @TestJSONPlaceholder
-Característica:
+Característica: Realizar a los diversos metodos de la
+  API JSONPlaceholder
 
   @Obtencion_de_recursos_literarios
   Escenario: Obtencion de recursos literarios
